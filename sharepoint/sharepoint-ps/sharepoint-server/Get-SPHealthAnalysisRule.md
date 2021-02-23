@@ -31,7 +31,7 @@ You may only use parameters from one parameter set, and you may not combine para
 For more information about how to use parameter sets, see [Cmdlet parameter sets](https://docs.microsoft.com/powershell/scripting/developer/cmdlet/cmdlet-parameter-sets).
 
 Use the Get-SPHealthAnalysisRule cmdlet to return a list of a health analyzer rules.
-To return a specify health analyzer rule, use the Identity parameter; otherwise, all health analyzer rules will be returned.
+To return a specific health analyzer rule, use the Identity parameter; otherwise, all health analyzer rules will be returned.
 
 The SPHealthAnalysisRule cmdlets were first introduced in the February 2011 Cumulative Update, which is available for download as follows:
 
